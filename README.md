@@ -66,7 +66,7 @@ JavaScript (ES6+)
 
 🧑‍💻 Getting Started
 1. Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Anmolvaish0708/your-repo-name.git
 cd your-repo-name
 
 2. Install dependencies
